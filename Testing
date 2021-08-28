@@ -1,0 +1,4 @@
+local Module = require(game.ReplicatedStorage.ModuleScript)
+
+print(Module.Enabled)
+print(Module.Velocity)
